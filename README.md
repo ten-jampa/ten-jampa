@@ -1,6 +1,6 @@
 # Tenzin Jampa
 
-Prev Physics and Philosophy  MIT, with interests in machine learning for science, research tooling, and AI engineering systems.
+Prev Physics and Philosophy  @MIT, with interests in machine learning for science, research tooling, and AI engineering systems.
 Currently working as a datascientist @Fprime Capital.
 Most of my work sits somewhere between technical exploration and implementation: building useful tools, learning by making, and staying close to the underlying ideas.
 
