@@ -1,15 +1,15 @@
 # Tenzin Jampa
 
-Physics and Philosophy at MIT, with interests in machine learning for science, research tooling, and practical software systems.
-
+Prev Physics and Philosophy  MIT, with interests in machine learning for science, research tooling, and AI engineering systems.
+Currently working as a datascientist @Fprime Capital.
 Most of my work sits somewhere between technical exploration and implementation: building useful tools, learning by making, and staying close to the underlying ideas.
 
 ## Current Work
 
-- Machine learning for science
+- Machine learning and AI
 - Research and knowledge workflows
 - Developer tooling and automation
-- Computational physics and technical prototyping
+- AI Agents & Frameworks
 
 ## Experience
 
@@ -25,5 +25,6 @@ At Fprime, I contribute to internal technical work across AI-enabled workflows, 
 ## Elsewhere
 
 - Writing: [tenzindjampa.home.blog](https://tenzindjampa.home.blog)
+- Writing: [jampa.bearblog.dev](https://jampa.bearblog.dev/)
 
 If you work on ML for science, research infrastructure, or adjacent ideas, I’m always happy to connect.
